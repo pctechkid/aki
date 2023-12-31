@@ -1,0 +1,91 @@
+{
+  "language": "en",
+  "DeveloperMode": true,
+  "autoCreateDB": true,
+  "allowInbox": false,
+  "autoClean": true,
+  "adminOnly": false,
+  "encryptSt": true,
+  "UPTIME": 0,
+  "commandDisabled": [
+    "configv2.js"
+  ],
+  "eventDisabled": [],
+  "EMAIL": "",
+  "PASSWORD": "",
+  "OTPKEY": "",
+  "BOTNAME": "aki",
+  "PREFIX": ".",
+  "ADMINBOT": [
+    "100067451622135",
+    "61550030744931",
+    "100072486325557",
+    "100001251513214"
+  ],
+  "DESIGN": {
+    "Title": "Aki",
+    "Theme": "ghost",
+    "Admin": "Aki Hayakawa",
+    "Setup": {
+      "Title": "Design your own custom terminal Titlebar for the title and must contain no numbers",
+      "Theme": "Customize your console effortlessly with various theme colors. Explore Aqua, Fiery, Blue, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, and Hacker themes to enhance your terminal logs."
+    }
+  },
+  "APPSTATEPATH": "appstate.json",
+  "DEL_FUNCTION": false,
+  "ADD_FUNCTION": true,
+  "FCAOption": {
+    "forceLogin": true,
+    "listenEvents": true,
+    "autoMarkDelivery": false,
+    "autoMarkRead": false,
+    "pauseLog": true,
+    "logLevel": "silent",
+    "selfListen": false,
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18"
+  },
+  "version": "1.3.2",
+  "daily": {
+    "cooldownTime": 43200000,
+    "rewardCoin": 500
+  },
+  "work": {
+    "cooldownTime": 1200000
+  },
+  "help": {
+    "autoUnsend": false,
+    "delayUnsend": 30
+  },
+  "adminUpdate": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "adminNoti": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "math": {
+    "WOLFRAM": "T8J8YV-H265UQ762K"
+  },
+  "sing": {
+    "YOUTUBE_API": "AIzaSyCqox-KXEwDncsuo2HIpE0MF8J7ATln5Vc",
+    "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+  },
+  "video": {
+    "YOUTUBE_API": "AIzaSyBZuIv9MNYOCbGYEZm-9N0hrZKJMob-qT0"
+  },
+  "audio": {
+    "YOUTUBE_API": "AIzaSyBZuIv9MNYOCbGYEZm-9N0hrZKJMob-qT0"
+  },
+  "menu": {
+    "autoUnsend": true,
+    "delayUnsend": 60
+  },
+  "chemeb": {},
+  "coinflip": {},
+  "log": {
+    "enable": true
+  }
+}
